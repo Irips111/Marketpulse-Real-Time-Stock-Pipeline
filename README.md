@@ -79,7 +79,7 @@ python consumer/consumer.py
 
 5. Access Monitoring Tools
    Prometheus → http://localhost:9090
-   Grafana → http://localhost:3000
+   Grafana → http://localhost:3001
 
 6. Connect Power BI
 Connect Power BI to PostgreSQL using:
